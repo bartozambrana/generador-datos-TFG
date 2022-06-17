@@ -1,8 +1,9 @@
 {
 
   "scripts": {
-    "startUsersCSV": "node  ./src/usersCSV.js",
     "startUsersJSON": "node  ./src/usersJSON.js"
+    "startDates" : "node ./src/dates.js",
+    "startServices" : "node ./src/services.js"
   },
   "dependencies": {
     "csv-parser": "^3.0.0",
