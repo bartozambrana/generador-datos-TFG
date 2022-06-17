@@ -1,0 +1,652 @@
+[
+  {
+    "_id": { "$oid": "62960809b26fc1e5e87f466b" },
+    "serviceName": "service1",
+    "serviceInfo": "descripción del servicio1",
+    "serviceCategory": "moda",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5a486777207a456ee" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809dbd8081cea7678c2" },
+    "serviceName": "service2",
+    "serviceInfo": "descripción del servicio2",
+    "serviceCategory": "mecánica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5aeb0196daf8dfdc2" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809457c0347876037d8" },
+    "serviceName": "service3",
+    "serviceInfo": "descripción del servicio3",
+    "serviceCategory": "eletrónica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5da24bf728ab934bd" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608096abce1a349cc810f" },
+    "serviceName": "service4",
+    "serviceInfo": "descripción del servicio4",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c55428d67c4149e4d6" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809ae505e46c573bd1e" },
+    "serviceName": "service5",
+    "serviceInfo": "descripción del servicio5",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5ae1322ea546c5238" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080918df20cf4615e758" },
+    "serviceName": "service6",
+    "serviceInfo": "descripción del servicio6",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c558c3dc96b75ee83c" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080964889d79e9bcdbb0" },
+    "serviceName": "service7",
+    "serviceInfo": "descripción del servicio7",
+    "serviceCategory": "mecánica",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c5a2469e773962c398" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809385c2ad7e1e1d4d2" },
+    "serviceName": "service8",
+    "serviceInfo": "descripción del servicio8",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c53a38dbd04458d524" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809c841a9713f7e9bd4" },
+    "serviceName": "service9",
+    "serviceInfo": "descripción del servicio9",
+    "serviceCategory": "moda",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5740bb86289b83333" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608098f1114e1862b132b" },
+    "serviceName": "service10",
+    "serviceInfo": "descripción del servicio10",
+    "serviceCategory": "aseguradoras",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c5de73955bc302a9c9" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809467e96adef0a3cb6" },
+    "serviceName": "service11",
+    "serviceInfo": "descripción del servicio11",
+    "serviceCategory": "moda",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c56193d9c89fc7c13b" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608092bd88968faf4d90b" },
+    "serviceName": "service12",
+    "serviceInfo": "descripción del servicio12",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c526ec5712bcaf9c8d" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809e435c46b56be1ec8" },
+    "serviceName": "service13",
+    "serviceInfo": "descripción del servicio13",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c5147c60fcfdfac566" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608095074ff7bf80eba2e" },
+    "serviceName": "service14",
+    "serviceInfo": "descripción del servicio14",
+    "serviceCategory": "mecánica",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c542d3ecd8116291b7" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080954992417009e01b5" },
+    "serviceName": "service15",
+    "serviceInfo": "descripción del servicio15",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c516bf58a9cce6fbc3" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080939ddfef90cc4d486" },
+    "serviceName": "service16",
+    "serviceInfo": "descripción del servicio16",
+    "serviceCategory": "eletrónica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5cd6919c1d3d8ca1c" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608091cdc366286a0c892" },
+    "serviceName": "service17",
+    "serviceInfo": "descripción del servicio17",
+    "serviceCategory": "eletrónica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c50a1a67c5dd03250a" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809b2e459ea69f43b5d" },
+    "serviceName": "service18",
+    "serviceInfo": "descripción del servicio18",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c59d0030961df6bbf2" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080905a4728a5ad1d173" },
+    "serviceName": "service19",
+    "serviceInfo": "descripción del servicio19",
+    "serviceCategory": "eletrónica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c59af452a535179d65" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809ea8fd3f18e9bb5bd" },
+    "serviceName": "service20",
+    "serviceInfo": "descripción del servicio20",
+    "serviceCategory": "moda",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c5b413419b246d0f06" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080966fee368f60855cb" },
+    "serviceName": "service21",
+    "serviceInfo": "descripción del servicio21",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c51d347e9091949698" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809e60c11759605d2fe" },
+    "serviceName": "service22",
+    "serviceInfo": "descripción del servicio22",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c51d1838b02536e3d0" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809edededcc476f9b09" },
+    "serviceName": "service23",
+    "serviceInfo": "descripción del servicio23",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c54632217be541f740" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809c829f8d2a6da6172" },
+    "serviceName": "service24",
+    "serviceInfo": "descripción del servicio24",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5718205b79b85ffb5" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608091ebac176e78d3058" },
+    "serviceName": "service25",
+    "serviceInfo": "descripción del servicio25",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c5eb4854658e314bb6" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809b1b7ee6faf2e2d84" },
+    "serviceName": "service26",
+    "serviceInfo": "descripción del servicio26",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c588ec9a1ef05abd99" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809b16425e4c59e0fa2" },
+    "serviceName": "service27",
+    "serviceInfo": "descripción del servicio27",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5f6930d420a0be921" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080994107034b0326529" },
+    "serviceName": "service28",
+    "serviceInfo": "descripción del servicio28",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5cd9336728ae26690" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809fe9a317564013edc" },
+    "serviceName": "service29",
+    "serviceInfo": "descripción del servicio29",
+    "serviceCategory": "eletrónica",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c5ff928eded9cc27fc" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608099fa9cbb659e7e5d3" },
+    "serviceName": "service30",
+    "serviceInfo": "descripción del servicio30",
+    "serviceCategory": "mecánica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c580a3789e6a74b1c4" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080980aa22c43e72ae5a" },
+    "serviceName": "service31",
+    "serviceInfo": "descripción del servicio31",
+    "serviceCategory": "moda",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c500f73e40e4057b2e" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809ae14607a777b255c" },
+    "serviceName": "service32",
+    "serviceInfo": "descripción del servicio32",
+    "serviceCategory": "eletrónica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c586874a6dbf981a18" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080949f42b09664eb939" },
+    "serviceName": "service33",
+    "serviceInfo": "descripción del servicio33",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c5deb602c2b9fefcd4" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080901e23342419efde6" },
+    "serviceName": "service34",
+    "serviceInfo": "descripción del servicio34",
+    "serviceCategory": "mecánica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c57a8c85d6ec6b8365" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809f1fb14ef1a9ce145" },
+    "serviceName": "service35",
+    "serviceInfo": "descripción del servicio35",
+    "serviceCategory": "aseguradoras",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c528a11d97bdecff2c" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608097ba79960adb4ab41" },
+    "serviceName": "service36",
+    "serviceInfo": "descripción del servicio36",
+    "serviceCategory": "mecánica",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c5e70dd81c26e7dcc2" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809ae6069477cbeb886" },
+    "serviceName": "service37",
+    "serviceInfo": "descripción del servicio37",
+    "serviceCategory": "aseguradoras",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5820388300f6b2bc5" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080963f289dc71d723a0" },
+    "serviceName": "service38",
+    "serviceInfo": "descripción del servicio38",
+    "serviceCategory": "aseguradoras",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c557ffa5f4284d6cd6" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080991fd107827f010f1" },
+    "serviceName": "service39",
+    "serviceInfo": "descripción del servicio39",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c500563761f718796b" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809884814508390e8d9" },
+    "serviceName": "service40",
+    "serviceInfo": "descripción del servicio40",
+    "serviceCategory": "moda",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c586217d85ac3522b1" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809f558b1381a5069c2" },
+    "serviceName": "service41",
+    "serviceInfo": "descripción del servicio41",
+    "serviceCategory": "eletrónica",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c59b2511cfe28c7d9d" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608099ab6cfe63137f044" },
+    "serviceName": "service42",
+    "serviceInfo": "descripción del servicio42",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c5e03f1f7a4d4bb763" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809da8ecec340825289" },
+    "serviceName": "service43",
+    "serviceInfo": "descripción del servicio43",
+    "serviceCategory": "aseguradoras",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c57e3e3879bcae7495" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608095a0ff51f0053fc53" },
+    "serviceName": "service44",
+    "serviceInfo": "descripción del servicio44",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c50a15e286f44632da" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "6296080910fbb5193669a8cc" },
+    "serviceName": "service45",
+    "serviceInfo": "descripción del servicio45",
+    "serviceCategory": "peluquería",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c57107d5a0d741fb83" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809871496860c283f88" },
+    "serviceName": "service46",
+    "serviceInfo": "descripción del servicio46",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c568caf1f060446c8a" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608099372ddad8cc14a25" },
+    "serviceName": "service47",
+    "serviceInfo": "descripción del servicio47",
+    "serviceCategory": "mecánica",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c54b60da428576cbc6" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809298d0cfe1e43a1b8" },
+    "serviceName": "service48",
+    "serviceInfo": "descripción del servicio48",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Madrid",
+      "street": "Gral Oraá, 38",
+      "postalCode": 28006
+    },
+    "idUser": { "$oid": "629603c5d332ed5847d6bc76" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "629608098f2cfa967bc95fb0" },
+    "serviceName": "service49",
+    "serviceInfo": "descripción del servicio49",
+    "serviceCategory": "auditoría-asesoría",
+    "localization": {
+      "cityName": "Sevilla",
+      "street": "Dos de Mayor, 2",
+      "postalCode": 41001
+    },
+    "idUser": { "$oid": "629603c5ff8336aa03674f5f" },
+    "status": true
+  },
+  {
+    "_id": { "$oid": "62960809586ba17c38e28c02" },
+    "serviceName": "service50",
+    "serviceInfo": "descripción del servicio50",
+    "serviceCategory": "dentistas",
+    "localization": {
+      "cityName": "Barcelona",
+      "street": "Avinguda Diagonal, 640",
+      "postalCode": 8017
+    },
+    "idUser": { "$oid": "629603c508e5645b033ac052" },
+    "status": true
+  }
+]

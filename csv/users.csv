@@ -1,0 +1,6 @@
+_id,email,followServices,password,postNotifications,status,type,username
+6295f47cbaaf84fbdae6010e,user1@gmail.com,[],$2a$10$BG7ODgAuRQi3U0jHCextQusltD3midJrWOeTy5j7P8YYZFSpOLcVq,false,true,true,user1
+6295f47cf549f00b32423dac,user2@gmail.com,[],$2a$10$BG7ODgAuRQi3U0jHCextQusltD3midJrWOeTy5j7P8YYZFSpOLcVq,false,true,true,user2
+6295f47cf882efffab491bf5,user3@gmail.com,[],$2a$10$BG7ODgAuRQi3U0jHCextQusltD3midJrWOeTy5j7P8YYZFSpOLcVq,false,true,true,user3
+6295f47c74b4849132ecef78,user4@gmail.com,[],$2a$10$BG7ODgAuRQi3U0jHCextQusltD3midJrWOeTy5j7P8YYZFSpOLcVq,false,true,true,user4
+6295f47c628bdb1df3b188a0,user5@gmail.com,[],$2a$10$BG7ODgAuRQi3U0jHCextQusltD3midJrWOeTy5j7P8YYZFSpOLcVq,false,true,true,user5

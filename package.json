@@ -1,0 +1,11 @@
+{
+
+  "scripts": {
+    "startUsersCSV": "node  ./src/usersCSV.js",
+    "startUsersJSON": "node  ./src/usersJSON.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
